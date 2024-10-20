@@ -1,0 +1,12 @@
+{
+  "name": "k6-http",
+  "version": "1.0.0",
+  "description": "Test for https://test-api.k6.io",
+  "main": "example.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
